@@ -93,9 +93,6 @@ align="center" /></div>
 align="left" />  
 
 <br/>  
-
-
-## Recent Blog Posts  
   
 
 <br/>  
