@@ -1,4 +1,4 @@
-### <div align="center">I'm Michał, a PHP Laravel and Vue.js developer 👨‍💻 I am here since 2016  🚀</div>  
+### <div align="center">I'm Michał, a PHP Laravel, Flutter and Vue.js developer 👨‍💻 I am here since 2016  🚀</div>  
 
 - 🌱 I'm currently working with Laravel 10/11 framework.
   
