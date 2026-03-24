@@ -1,8 +1,8 @@
-### <div align="center">I'm Michał, a PHP Laravel, Flutter and Vue.js developer 👨‍💻 I am here since 2016  🚀</div>  
+### <div align="center">I'm Michał, a PHP Laravel, Flutter and Vue.js developer 👨‍💻 I have been here since 2016  🚀</div>  
 
-- 🌱 I'm currently working with Laravel 10/11 framework.
+- 🌱 I'm currently working with the Laravel 11 framework.
   
-- 🧠 ML, AI, and game dev are also the fields in which I am interested in  
+- 🧠 ML, AI, and game dev are also the fields in which I am interested  
 
 <br/>  
 
